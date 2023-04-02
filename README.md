@@ -34,8 +34,7 @@
       alt="Renan-Instagram"
   /></a>
 </div>
-<img
-  src="https://raw.githubusercontent.com/Renan906/Renan906/output/github-contribution-grid-snake.svg"
+![Snake animation](https://github.com/Renan906/Renan906/blob/output/github-contribution-grid-snake.svg)
   
 />
-
+</div>
