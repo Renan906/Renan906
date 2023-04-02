@@ -36,6 +36,6 @@
 </div>
 <img
   src="https://raw.githubusercontent.com/Renan906/Renan906/output/github-contribution-grid-snake.svg"
-  alt=""
+  
 />
 
