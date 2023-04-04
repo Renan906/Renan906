@@ -11,7 +11,7 @@
     />
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Renan906&locale=pt-br&layout=compact&langs_count=12&theme=tokyonight&count_private=true"
+      src=
     />
   </a>
 </div>
@@ -38,5 +38,5 @@
   src="https://raw.githubusercontent.com/Renan906/Renan906/output/github-contribution-grid-snake.svg"
   alt=""
 />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan906)](https://github.com/Renan906/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan906)](https://github.com/anuraghazra/github-readme-stats)
 
