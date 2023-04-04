@@ -3,9 +3,6 @@
 - 👀 Estou interessado em ingressar no mercado em uma empresa de tecnologia, essa empresa pode ser a sua 😉.
 - 🌱 Atualmente estou buscando estudar e melhorar meus conhecimentos na aréa da computação.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan906)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <div>
   <a href="https://github.com/Renan906">
@@ -15,7 +12,7 @@
     />
     <img
       height="180em"
-      src=
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Renan906&locale=pt-br&layout=compact&langs_count=12&theme=tokyonight&count_private=true"
     />
   </a>
 </div>
@@ -42,5 +39,5 @@
   src="https://raw.githubusercontent.com/Renan906/Renan906/output/github-contribution-grid-snake.svg"
   alt=""
 />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan906)](https://github.com/anuraghazra/github-readme-stats)
+  
 
