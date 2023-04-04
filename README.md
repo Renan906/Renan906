@@ -11,7 +11,7 @@
     />
     <img
       height="180em"
-      src=
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Renan906&locale=pt-br&layout=compact&langs_count=12&theme=tokyonight&count_private=true"
     />
   </a>
 </div>
