@@ -23,7 +23,7 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Renan-gmail"
   /></a>
-  <a href="https://www.linkedin.com/in/renan-rezende-rol%C3%A3o-a11a64207/"
+  <a href="https://www.linkedin.com/https://www.linkedin.com/in/renanrolao/"
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Renan-linkedin"
